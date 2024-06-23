@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T05:26:35Z" name="Default suite" finished-at="2024-06-18T05:26:42Z" duration-ms="7638">
+    <groups>
+    </groups>
+    <test started-at="2024-06-18T05:26:35Z" name="Default test" finished-at="2024-06-18T05:26:42Z" duration-ms="7638">
+      <class name="testcase2.AllproductsTestNG">
+        <test-method is-config="true" signature="m1()[pri:0, instance:testcase2.AllproductsTestNG@5b247367]" started-at="2024-06-18T05:26:35Z" name="m1" finished-at="2024-06-18T05:26:36Z" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="m2()[pri:0, instance:testcase2.AllproductsTestNG@5b247367]" started-at="2024-06-18T05:26:36Z" name="m2" finished-at="2024-06-18T05:26:38Z" duration-ms="1573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method signature="m3()[pri:0, instance:testcase2.AllproductsTestNG@5b247367]" started-at="2024-06-18T05:26:38Z" name="m3" finished-at="2024-06-18T05:26:40Z" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method is-config="true" signature="m2()[pri:0, instance:testcase2.AllproductsTestNG@5b247367]" started-at="2024-06-18T05:26:40Z" name="m2" finished-at="2024-06-18T05:26:42Z" duration-ms="1982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method signature="m4()[pri:0, instance:testcase2.AllproductsTestNG@5b247367]" started-at="2024-06-18T05:26:42Z" name="m4" finished-at="2024-06-18T05:26:42Z" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method is-config="true" signature="m5()[pri:0, instance:testcase2.AllproductsTestNG@5b247367]" started-at="2024-06-18T05:26:42Z" name="m5" finished-at="2024-06-18T05:26:42Z" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+      </class> <!-- testcase2.AllproductsTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
